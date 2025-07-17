@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: simple-web
-          image: lmg5615/simple-web
+          image: lmg56151/simple-web
           ports:
             - containerPort: 80
