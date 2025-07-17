@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: simple-web
-          image: <your-dockerhub-id>/simple-web
+          image: lmg5615/simple-web
           ports:
             - containerPort: 80
